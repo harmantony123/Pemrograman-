@@ -1,4 +1,8 @@
 - belajar filter, map, dan reduce
-- belajar es6
-  ^ destructuring
-  ^ Async await
+- es6
+ ^ async await
+ ^ fetch API
+ ^ tag template
+ ^ destructuring
+ ^ Async await
+
